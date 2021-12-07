@@ -1,7 +1,7 @@
 Hi there 👋
 -🌱 I’m currently learning fullstack web-development
 -👯 I’m looking to collaborate with other content creators
--2021 Goals: Contribute more to Open Source projects
+-2022 Goals: Contribute more to Open Source projects
 
 
 <!---
